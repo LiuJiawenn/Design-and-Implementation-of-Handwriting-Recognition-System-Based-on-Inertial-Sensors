@@ -1,5 +1,4 @@
 # Design and Implementation of Handwriting Recognition System Based on Inertial Sensors
-This projet aims to realize the automatic recognition of the user's handwriting on paper through the built-in sensor of the smart watch, so that the user's handwriting content can be stored digitally without the user's explicit interaction.
 
 ### Abstract
 Handwriting on paper is a long-term way of information record. Handwriting
@@ -35,5 +34,5 @@ by the stroke recognition accuracy. The future research will try to improve the
 recognition accuracy of the system by optimizing stroke segmentation and enumeration, adding dictionary correction and other methods.
 
 ### Execute
-This is a group of script but not a complete pipline. But you can still try to run it with the unstore data.
-Simply run the Main\main.m
+This is a group of script but not a complete pipline. But you can still try to run it with the instore data.
+Simply run the Main\main.m, there is three lines of addpath() on the top, change it to your own path.
